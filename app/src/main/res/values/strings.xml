@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="title_activity_cadastrar_contatos">Cadastrar Contato</string>
+    <string name="title_activity_atualizar_contatos">Atualizar Contato</string>
+    <string name="title_activity_lista_contatos">Lista de Contatos</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_atualizar">Atualizar</string>
+    <string name="email">Email</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+</resources>
